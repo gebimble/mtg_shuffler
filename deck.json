@@ -1,0 +1,113 @@
+{
+    "0": {
+        "name": "thoughtseize",
+        "quantity": 4,
+        "quality": [
+            "targetted discard"
+        ]
+    },
+    "1": {
+        "name": "inquisition of kozilek",
+        "quantity": 4,
+        "quality": [
+            "targetted discard"
+        ]
+    },
+    "2": {
+        "name": "dismember",
+        "quantity": 1,
+        "quality": [
+            "targetted creature removal"
+        ]
+    },
+    "3": {
+        "name": "liliana of the veil",
+        "quantity": 3,
+        "quality": [
+            "single discard",
+            "targetted creature removal"
+        ]
+    },
+    "4": {
+        "name": "raven's crime",
+        "quantity": 4,
+        "quality": [
+            "single discard",
+            "recurring discard"
+        ]
+    },
+    "5": {
+        "name": "wrench mind",
+        "quantity": 4,
+        "quality": [
+            "double discard"
+        ]
+    },
+    "6": {
+        "name": "the rack",
+        "quantity": 4,
+        "quality": [
+            "win condition"
+        ]
+    },
+    "7": {
+        "name": "shrieking affliction",
+        "quantity": 4,
+        "quality": [
+            "win condition"
+        ]
+    },
+    "8": {
+        "name": "smallpox",
+        "quantity": 4,
+        "quality": [
+            "single discard",
+            "creature removal",
+            "land removal"
+        ]
+    },
+    "9": {
+        "name": "funeral charm",
+        "quantity": 2,
+        "quality": [
+            "single discard",
+            "targetted creature removal"
+        ]
+    },
+    "10": {
+        "name": "swamp",
+        "quantity": 12,
+        "quality": [
+            "basic land"
+        ]
+    },
+    "11": {
+        "name": "marsh flats",
+        "quantity": 4,
+        "quality": [
+            "fetch land"
+        ]
+    },
+    "12": {
+        "name": "urborg, tomb of yawgmoth",
+        "quantity": 4,
+        "quality": [
+            "all lands are swamps"
+        ]
+    },
+    "13": {
+        "name": "mutavault",
+        "quantity": 4,
+        "quality": [
+            "land",
+            "creature"
+        ]
+    },
+    "14": {
+        "name": "fatal push",
+        "quantity": 2,
+        "quality": [
+            "targetted creature removal"
+        ]
+    }
+}
